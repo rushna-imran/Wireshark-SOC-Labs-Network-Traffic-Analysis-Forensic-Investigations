@@ -32,7 +32,8 @@ The exercises focused on:
 * **Key Learning:** How to isolate attacker IP addresses using Wireshark filter syntax (`ip.src` / `ip.dst`) and examine basic packet header properties.
 
 #### Evidence
-*(Insert screenshot of Lab 3 query results and packet display window here)*
+<img width="1357" height="767" alt="Screenshot 2026-11-05 225222" src="https://github.com/user-attachments/assets/4a91e6fa-8b51-4285-a406-db62620461eb" />
+
 
 ---
 
@@ -43,7 +44,9 @@ The exercises focused on:
 * **Key Learning:** TCP stream reconstruction allows analysts to read full session contents without manually piecing together individual packet segments.
 
 #### Evidence
-*(Insert screenshot of Lab 4 TCP stream window here)*
+<img width="1357" height="767" alt="Screenshot 2026-11-05 225528" src="https://github.com/user-attachments/assets/19281710-035d-4505-9677-3279953adf7e" />
+
+
 
 ---
 
@@ -54,7 +57,9 @@ The exercises focused on:
 * **Key Learning:** Deep packet inspection of TCP handshake states helps identify session hijacking, unexpected payload delivery, or broken session logic.
 
 #### Evidence
-*(Insert screenshot of Lab 5 TCP stream investigation here)*
+<img width="1359" height="766" alt="Screenshot 2026-11-05 230047" src="https://github.com/user-attachments/assets/530a5035-069a-4d42-b63c-0048800cdb27" />
+
+
 
 ---
 
@@ -65,7 +70,8 @@ The exercises focused on:
 * **Key Learning:** Plaintext HTTP web forms transmit sensitive authentication data unencrypted, leaving credentials exposed to basic packet sniffing.
 
 #### Evidence
-*(Insert screenshot of Lab 6 HTML Form URL Encoded breakdown here)*
+<img width="1356" height="767" alt="Screenshot 2026-11-05 230442" src="https://github.com/user-attachments/assets/dfa67ddc-ea81-4013-8510-64e7f89591b4" />
+
 
 ---
 
@@ -76,7 +82,8 @@ The exercises focused on:
 * **Key Learning:** Brute-force attacks targeting unencrypted protocols like FTP create distinct high-frequency footprint patterns in Wireshark packet captures.
 
 #### Evidence
-*(Insert screenshot of Lab 7 FTP response filter `ftp.response.code == 530` here)*
+<img width="1359" height="767" alt="Screenshot 2026-11-05 231034" src="https://github.com/user-attachments/assets/53148bb2-e372-42d5-a0b2-60c42e174ebb" />
+
 
 ---
 
@@ -87,7 +94,8 @@ The exercises focused on:
 * **Key Learning:** VoIP traffic lacking encryption exposes call metadata (extension, caller name) via SIP headers and voice payloads via RTP streams.
 
 #### Evidence
-*(Insert screenshot of Lab 8 VoIP player / RTP packet details here)*
+<img width="1359" height="767" alt="Screenshot 2026-11-05 231540" src="https://github.com/user-attachments/assets/034ed7aa-a452-4dee-a28d-f521b947edd9" />
+
 
 ---
 
@@ -111,6 +119,7 @@ Completing these six SOC labs provided practical, hands-on experience in analyzi
 * **Platform:** Networkwalks SOC Practice Labs
 * **Primary Tools:** Wireshark
 * **Author:** Rushna Imran
+* **Linkedin:**  [RushnaIMRAN](https://www.linkedin.com/in/rushna-imran-3338303b6/)
 
 ---
 *Disclaimer: All investigations were performed in authorized training lab environments.*
