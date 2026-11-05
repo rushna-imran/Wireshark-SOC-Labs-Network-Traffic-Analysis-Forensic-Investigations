@@ -1,6 +1,5 @@
 # Wireshark-SOC-Labs-Network-Traffic-Analysis-Forensic-Investigations
 This repository documents six Security Operations Center (SOC) investigation labs completed as part of the Networkwalks Cybersecurity Internship (Module: Wireshark SOC Labs, Week 1 Extras).
-# Wireshark SOC Labs: Network Traffic Analysis & Forensic Investigations
 
 ## Overview
 This repository documents six hands-on Security Operations Center (SOC) investigation labs completed using Wireshark as part of my Networkwalks Cybersecurity Internship. 
